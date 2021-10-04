@@ -33,5 +33,4 @@ cat $FILE | while read val
 		fi
 	done
 
-
 echo "The number of Valid Password According to new Policy is `wc -l code2-GOOD.txt`"
